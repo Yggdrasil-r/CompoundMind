@@ -1,0 +1,2 @@
+# CompoundMind
+mema project
