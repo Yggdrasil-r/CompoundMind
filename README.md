@@ -1,2 +1,4 @@
-# CompoundMind
-mema project
+# YamanAq
+mema project 
+
+Personal Financial Growth Companion
